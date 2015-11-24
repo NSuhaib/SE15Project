@@ -1,7 +1,6 @@
 <?php # Script 3.4 - index.php
 include ('includes/session.php');
 
-$page_title = 'Welcome to this Site!';
 include ('./includes/header.php');
 ?>
  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
